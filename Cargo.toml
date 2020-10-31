@@ -1,6 +1,6 @@
 [package]
 name = "screenshots"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Hermann Schwarz <schwarz@dipf.de>"]
 edition = "2018"
 
@@ -10,3 +10,4 @@ edition = "2018"
 headless_chrome = "0.9.0"
 failure = "0.1.8"
 mysql = "15.1.2"
+url = "2.1.1"
